@@ -1,6 +1,5 @@
-# SOP
+# SoapUI
 於 PC@IBM App Store 或 SOAP UI 官網 下載安裝程式
-image.png
 
 執行安裝
 
